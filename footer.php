@@ -48,6 +48,9 @@ $reception_background = iro_opt('reception_background');
             本网站由 <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" target="_blank"> <img alt="upyun-logo" src="https://s.nmxc.ltd/sakurairo_vision/@2.7/options/upyun_logo.webp" style="display:inline-block;vertical-align:middle;width:60px;height:30px;"/> 提供 CDN 加速 / 云存储 服务
           <?php endif; ?>
           <br>
+		        <a href="https://www.beian.gov.cn/portal/recordQuery?token=9538824c-1d82-419d-9162-87b9835ab78d" rel="noopener" target="_blank" id="site-info" >公安备案号37092102000107 </a>
+				<a href="http://beian.miit.gov.cn/" rel="noopener" target="_blank" id="site-info" > 鲁ICP备2021003589号-1</a> 
+				<br>
           <a href="https://github.com/mirai-mamori/Sakurairo" rel="noopener" target="_blank" id="site-info">Theme Sakurairo</a><a href="https://docs.fuukei.org/" rel="noopener" target="_blank" id="site-info"> by Fuukei</a>
         </span>
       </div>
